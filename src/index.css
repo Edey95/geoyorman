@@ -5,3 +5,15 @@
 ::-webkit-scrollbar {
   width: 0px;
 }
+
+ul.szh-menu.szh-menu--state-open.szh-menu--dir-bottom.bg-secondary-100.p-4 {
+  z-index: 2000;
+}
+
+.leaflet-container.leaflet-touch.leaflet-retina.leaflet-fade-anim.leaflet-grab.leaflet-touch-drag.leaflet-touch-zoom {
+  z-index: 0;
+}
+
+.leaflet-container.leaflet-touch.leaflet-fade-anim.leaflet-grab.leaflet-touch-drag.leaflet-touch-zoom {
+  z-index: 0;
+}
